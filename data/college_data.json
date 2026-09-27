@@ -1,0 +1,45 @@
+{
+    "college_name": "Kallam Haranadha Reddy Institute of Technology",
+    "college_location": "Chowdavaram, Guntur - 522019",
+
+    "college_timings": {
+        "first_shift": "8:20 AM to 3:00 PM",
+        "second_shift": "10:00 AM to 4:30 PM"
+    },
+
+    "courses": [
+        "Computer Science and Engineering (CSE)",
+        "Data Science (DS)",
+        "Civil Engineering (CE)",
+        "Electrical and Electronics Engineering (EEE)",
+        "Electronics and Communication Engineering (ECE)",
+        "Information Technology (IT)"
+    ],
+
+    "cse_sub_branches": [
+        "Artificial Intelligence and Machine Learning (AI & ML)",
+        "Artificial Intelligence and Data Science (AI & DS)",
+        "Data Science (DS)"
+    ],
+
+    "facilities": [
+        "Library",
+        "Boys Hostel",
+        "College Bus"
+    ],
+
+    "hostel": {
+        "available": "Yes",
+        "type": "Boys Hostel"
+    },
+
+    "library": {
+        "available": "Yes",
+        "timing": "10:00 AM to 4:30 PM"
+    },
+
+    "transportation": {
+        "available": "Yes",
+        "type": "College Bus"
+    }
+}
